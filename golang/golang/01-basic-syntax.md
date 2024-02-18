@@ -1,2 +1,0 @@
-# Golang basic syntax
-

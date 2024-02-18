@@ -2,8 +2,8 @@
 
 ## Syntax
 
-- [Basic](golang/01-basic-syntax.md)
-- [Advanced](golang/02-advanced-syntax.md)
+- [Basic](01-basic-syntax.md)
+- [Advanced](02-advanced-syntax.md)
 
 ## Libraries
 
